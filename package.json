@@ -1,0 +1,15 @@
+{
+  "name": "stremio-india-catalog",
+  "version": "1.0.0",
+  "description": "Stremio catalog addon for Indian movies and TV shows via TMDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "stremio-addon-sdk": "^1.6.10"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
